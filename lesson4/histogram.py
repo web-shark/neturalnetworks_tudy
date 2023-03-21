@@ -2,7 +2,7 @@ from src.basicGraphs import loadPrices
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.mlab as mlab
-import numpy as np
+import np_task as np
 
 # spx = loadPrices('../data/^spx_d.csv')
 # spx = spx[['Close']]

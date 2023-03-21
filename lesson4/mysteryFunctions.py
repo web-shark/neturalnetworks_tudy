@@ -1,4 +1,4 @@
-import numpy as np
+import np_task as np
 
 def mysteryFunctionOne(inputParams):
     result= []
